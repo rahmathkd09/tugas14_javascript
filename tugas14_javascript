@@ -1,4 +1,4 @@
-var umur=36/37
+var umur=37/25
 console.log(umur)
 console.log(Math.floor(umur))
 console.log(Math.ceil(umur))
